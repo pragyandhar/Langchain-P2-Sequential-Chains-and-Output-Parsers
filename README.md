@@ -12,6 +12,14 @@ It focuses on three core concepts:
 - Structured output parsing with `PydanticOutputParser`.
 - Data enrichment with `RunnablePassthrough.assign(...)`.
 
+## Output
+
+### Project Output Video
+https://github.com/user-attachments/assets/3b67c802-b8c3-4518-933f-cfcd2004f4bd
+
+### Project Output Screenshot
+[output](assets/output.png)
+
 ## Project Structure
 
 ```text
